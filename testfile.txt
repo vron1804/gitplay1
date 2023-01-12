@@ -1,1 +1,5 @@
 This is a quick test
+No idea whats happening
+trying to learn git.
+I am adding new line here
+
